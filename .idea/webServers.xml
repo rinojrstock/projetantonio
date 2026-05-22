@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="814440e8-b4c1-470e-a7b6-2a8646e7f6f7" name="hugosftp" url="http://hugofabris.alwaysdata.net">
+        <fileTransfer rootFolder="/home/hugofabris/www" accessType="SFTP" host="ssh-hugofabris.alwaysdata.net" port="22" sshConfigId="6f1b447f-5f0b-473b-b41f-51021a8e6188" sshConfig="hugofabris@ssh-hugofabris.alwaysdata.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
